@@ -16,7 +16,6 @@ The table has two parts
 All products are listed but customer information is only available for some products. `This is because we input information about a customer once the deal is done logically only sold items are associated with a buyer`.
 
 # Understanding data through one instance.
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
 `Nora Lynch` with a `customer id C004` was `56 years` old `when she bought an apartment 43` in `building 1` to live there. She `paid 377,313 .56 dollars` for an `area of 1160.36 square feet` In `June 2004`. Nora is from `California`. Felt `very satisfied` with the deal and `did not get a mortgage for the purchase`. She `found` out about `product through our website`.
 
@@ -34,7 +33,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 | Gender | Categorical |    Qualitative Nominal |
 | State | Categorical |    Qualitative Nominal |
 
-### Step 2: Analyse each variable (As in the Excel)
+### Step 2: Analyse each variable (As in the [Excel](https://github.com/KathuriaHimanshi/Real-Estate-Market-Segmentation/blob/master/365%20REAL%20ESTATE%20MARKET%20SEGMENTATION.xlsx))
 ### Step 3: Find relationship between variables – look at excel sheets
 ### Step 4: Find Insights
 
